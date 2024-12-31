@@ -20,4 +20,4 @@ Collection of SQL projects demonstrating data analysis and business intelligence
 - Business Analytics
 
 ## Contact
-[LinkedIn] | marcus@makiseasc.com
+[LinkedIn] | https://www.linkedin.com/in/marcusstellato/
